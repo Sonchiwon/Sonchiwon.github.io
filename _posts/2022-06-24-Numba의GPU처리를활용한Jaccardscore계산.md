@@ -7,7 +7,7 @@ math: true
 mermaid: true
 author: Sonchiwon
 ---
-> {{ page.description }} 
+> {{ page.description }}
 {: .prompt-tip }
 
 
