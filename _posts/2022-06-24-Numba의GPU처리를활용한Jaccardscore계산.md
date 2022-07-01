@@ -97,5 +97,3 @@ for _ in range(10):
 -   [Decorator, `numba.cuda.jit` 의 명세](https://numba.readthedocs.io/en/stable/cuda-reference/kernel.html#numba.cuda.jit)
 -   [`numba.cuda.jit`의 첫번째 인수, `signature` 기입 방법](https://numba.readthedocs.io/en/stable/reference/types.html?highlight=signature#signatures)
 -   [Numba GPU 함수 작성 시 사용할 수 있는 Python 기능](https://numba.readthedocs.io/en/stable/cuda/cudapysupported.html)
-
-
