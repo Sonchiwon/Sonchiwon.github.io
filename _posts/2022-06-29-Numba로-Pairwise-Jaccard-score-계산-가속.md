@@ -11,7 +11,7 @@ author: Sonchiwon
 {: .prompt-tip }
 
 
-먼저 [이전 게시물](https://sonchiwon.github.io/posts/Numba%EC%9D%98GPU%EC%B2%98%EB%A6%AC%EB%A5%BC%ED%99%9C%EC%9A%A9%ED%95%9CJaccardscore%EA%B3%84%EC%82%B0/)을 참고하여 
+먼저 [이전 게시물](https://sonchiwon.github.io/posts/Numba%EC%9D%98-GPU-%EC%B2%98%EB%A6%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-Jaccard-score-%EA%B3%84%EC%82%B0/)을 참고하여
 scikit-learn 버전의 Pairwise Jaccard score 계산 동작을 구현해 보겠습니다.
 
 ```python
