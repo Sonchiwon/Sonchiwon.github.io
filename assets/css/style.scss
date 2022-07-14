@@ -14,3 +14,7 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 .post-content {
     text-align: justify;
 }
+
+.highlight pre {
+    font-size: .7rem;
+}
